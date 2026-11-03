@@ -25,17 +25,17 @@
 ## Mes 2 domaines préférés
 
 
-### Domaine 1 : Graphisme
+### Domaine 1 : Vidéo
 
-- Expérience : infographie / cours d'illustration numérique 
-- Logiciels et outils : photoshop, illustrator
+- Expérience : Je n'ai pas d'expérience
+- Logiciels et outils : Davinci
 - Pourquoi il m'intéresse : ...
 - Travailler dans ce domaine : ...
 
-### Domaine 2 : Vidéo
+### Domaine 2 : Graphisme
 
-- Expérience : ...
-- Logiciels et outils : davinci
+- Expérience : infographie / cours d'illustration numérique 
+- Logiciels et outils :  photoshop, illustrator
 - Pourquoi il m'intéresse : ...
 - Travailler dans ce domaine : ...
 
