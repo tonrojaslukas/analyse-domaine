@@ -4,7 +4,7 @@
 
 - Mes forces : créatif, logique, curieux 
     - Exemple : Je pense que j'ai de bonnes idées créatives et que je peux trouver de bonne direction artistique, également je pense que je peux atteindre des résultats de manière logique et cohérente, finalement dès qu'un sujet m'intéresse je suis particulièrement curieux et je peux m'informer sur celui-ci pendant                   longtemps.
-- Mes faiblesses ou points à améliorer : Mauvaise gestion du temps, 
+- Mes faiblesses ou points à améliorer : Mauvaise gestion du temps, l'auto-critique excessive , la prise de risque limitée
     - Exemple : ...
 - Seul(e) ou en équipe : En équipe
     - Pourquoi et exemple : Je pense que je sais plus me gérer quand je travaille en groupe. Tandis que quand je travail seul et que je suis le seul responsable de mon travail je gère mal mon temps et procrastine. 
@@ -34,31 +34,31 @@
 
 ### Domaine 2 : Graphisme
 
-- Expérience : infographie / cours d'illustration numérique 
+- Expérience : J'ai suivi un cours d'infographie durant mon secondaire et durant mon parcours collégiale j'ai eu l'occasion de suivre un cours d'illustration numérique. 
 - Logiciels et outils :  photoshop, illustrator
-- Pourquoi il m'intéresse : Mon intérêt pour ce domaine est très fort puisque j'adore
-- Travailler dans ce domaine : J'aimerais vraiment travailler dans
+- Pourquoi il m'intéresse : Mon intérêt pour ce domaine est très fort puisque j'adore comment on peut travailler la composition dans l'image.
+- Travailler dans ce domaine : J'aimerais vraiment travailler dans un petit studio de graphisme et concevoir des identités visuelles.
 
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Studios de création audiovisuel
-- Exemple d'entreprise : lucasfilm, paramount, warnerbros, sony pictures
+- Exemple d'entreprise : Lucasfilm, Paramount, Warner Bros, Sony Pictures
 
-![20th Century Fox](entreprise.jpg)
+![20th Century Fox](20th_century_fox.jpg)
 
-(source de l'image : ...)
+(source de l'image : https://movieweb.com/20th-century-fox-celebrates-its-75th-anniversary-with-brand-new-dvd-and-blu-ray-releases/)
 
 - Types de produits et de services : Contenu audiovisuel
 - Étapes de production : Idéation / recherche, Préproduction, Production, Postproduction, Opération 
-- Type d'emploi visé : ...
+- Type d'emploi visé : Directeur photo 
 - Étapes pour obtenir cet emploi : ...
 
 ## Conclusion
 
 - Mon profil en une phrase :  Je suis un créatif curieux qui veut concevoir des .
 - Ce qui m'a surpris : ...
-- Ma force principale et la faiblesse à travailler : ...
-- Mon action d'ici la fin de la session : ...
+- Ma force principale et la faiblesse à travailler : Ma force principale je pense est que je suis créatif et ma faiblesse à travailler est mon auto-critique excessive 
+- Mon action d'ici la fin de la session : Je pense qu'il serait vraiment bien que je m'intéresse un peu à l'interface de Davinci et me familiariser avec l'interface.
 
 ## Ma capsule
 
