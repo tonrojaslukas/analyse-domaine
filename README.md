@@ -27,24 +27,24 @@
 
 ### Domaine 1 : Vidéo
 
-- Expérience : Je n'ai pas d'expérience
+- Expérience : Je n'ai pas d'expérience, ce qui est le plus favorable à m'y initier et tout ce qui touche au cinéma et au monde de la musique donc vidéo-clips.
 - Logiciels et outils : Davinci
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Pourquoi il m'intéresse : Mon intérêt pour ce domaine est très fort puisque j'adore comment on peut transmettre des émotions seulement avec des images
+- Travailler dans ce domaine : J'aimerais vraiment travailler dans un petit studio dans le cadre de si je travailler dans le cadre du monde la musique sinon dans sur de gros projet dans le cadre du cinéma.
 
 ### Domaine 2 : Graphisme
 
 - Expérience : infographie / cours d'illustration numérique 
 - Logiciels et outils :  photoshop, illustrator
-- Pourquoi il m'intéresse : ...
-- Travailler dans ce domaine : ...
+- Pourquoi il m'intéresse : Mon intérêt pour ce domaine est très fort puisque j'adore
+- Travailler dans ce domaine : J'aimerais vraiment travailler dans
 
 ## Les caractéristiques de mon domaine préféré
 
 - Types d'entreprises : Studios de création audiovisuel
-- Exemple d'entreprise : ...
+- Exemple d'entreprise : lucasfilm, paramount, warnerbros, sony pictures
 
-![Nom de l'entreprise](entreprise.jpg)
+![20th Century Fox](entreprise.jpg)
 
 (source de l'image : ...)
 
